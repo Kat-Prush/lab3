@@ -76,13 +76,10 @@ input[type="submit"] {
     width: 100%;
   }
 
-// <uniquifier>: Use a uniquifier for the class name
-// <weight>: Use a value from 200 to 1000
-
-.nunito-<uniquifier> {
+.nunito-<body> {
   font-family: "Nunito", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: <200>;
   font-style: normal;
 }
 }
