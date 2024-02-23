@@ -40,7 +40,7 @@ form {
 
 label {
   display: block;
-  margin-bottom: 0.5rem;
+  margin-bottom: 1rem;
   color: #000000; 
 }
 
@@ -75,7 +75,8 @@ input[type="submit"] {
   input[type="submit"] {
     width: 100%;
   }
-  // <uniquifier>: Use a uniquifier for the class name
+
+// <uniquifier>: Use a uniquifier for the class name
 // <weight>: Use a value from 200 to 1000
 
 .nunito-<uniquifier> {
