@@ -76,10 +76,4 @@ input[type="submit"] {
     width: 100%;
   }
 
-.nunito-<body> {
-  font-family: "Nunito", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <200>;
-  font-style: normal;
-}
 }
