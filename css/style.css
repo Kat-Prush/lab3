@@ -21,9 +21,9 @@ p {
 }
 
 #content {
-  max-width: 480px; 
+  max-width: 500px; 
   margin: 0 auto;
-  padding: 20px;
+  padding: 50px;
   background-color: #f9f9f9; 
   text-align: center; 
 }
